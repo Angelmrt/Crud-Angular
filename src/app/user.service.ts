@@ -17,15 +17,4 @@ export class UserService {
     return this.http.get<User[]>(this.jsonUrl);
   }
 
-
-/*
-
-./types.ts 
-../types.ts => cd ..
-
-
-*/
-
-
-
 }
