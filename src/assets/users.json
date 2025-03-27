@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "phone": "123-456-7890",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "María Gómez",
+      "email": "maria.gomez@example.com",
+      "phone": "987-654-3210",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodríguez",
+      "email": "carlos.rod@example.com",
+      "phone": "111-222-3333",
+      "role": "Editor"
+    },
+    {
+      "id": 4,
+      "name": "Ana Torres",
+      "email": "ana.torres@example.com",
+      "phone": "444-555-6666",
+      "role": "User"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Sánchez",
+      "email": "pedro.sanchez@example.com",
+      "phone": "777-888-9999",
+      "role": "Admin"
+    },
+    {
+      "id": 6,
+      "name": "Lucía Ramírez",
+      "email": "lucia.ramirez@example.com",
+      "phone": "222-333-4444",
+      "role": "User"
+    },
+    {
+      "id": 7,
+      "name": "Fernando López",
+      "email": "fernando.lopez@example.com",
+      "phone": "555-666-7777",
+      "role": "Editor"
+    },
+    {
+      "id": 8,
+      "name": "Andrea Herrera",
+      "email": "andrea.herrera@example.com",
+      "phone": "888-999-0000",
+      "role": "User"
+    },
+    {
+      "id": 9,
+      "name": "Ricardo Díaz",
+      "email": "ricardo.diaz@example.com",
+      "phone": "333-444-5555",
+      "role": "User"
+    },
+    {
+      "id": 10,
+      "name": "Sofía Méndez",
+      "email": "sofia.mendez@example.com",
+      "phone": "666-777-8888",
+      "role": "Admin"
+    }
+  ]
+  
