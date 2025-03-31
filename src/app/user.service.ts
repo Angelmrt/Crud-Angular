@@ -17,4 +17,14 @@ export class UserService {
     return this.http.get<User[]>(this.jsonUrl);
   }
 
+  deleteUser(id: number): Observable<void> {
+    return this.http.delete<void>(`${this.jsonUrl}/${id}`);
+  }
+  addUser(user: User): Observable<User> {
+    return this.http.post<User>(this.jsonUrl, user);
+  }
+  updateUser(user: User): Observable<User> {
+    return this.http.put<User>(`${this.jsonUrl}/${user.id}`, user);
+  }
+
 }
